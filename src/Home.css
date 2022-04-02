@@ -1,0 +1,11 @@
+.home {
+  height: 80vh;
+  background-image: linear-gradient(
+    to right top,
+    #ffffff,
+    #e3f4ff,
+    #abefff,
+    #74ebe6,
+    #73e0a9
+  );
+}
